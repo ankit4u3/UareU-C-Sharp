@@ -1,0 +1,25 @@
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Properties.Resources.resources
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\bin\Debug\UareUWindowsMSSQLCSharp.exe
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\bin\Debug\UareUWindowsMSSQLCSharp.pdb
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Enroll.resources
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.exe
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.pdb
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Verify.resources
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Form_Main.resources
+C:\Project\UareUSamples\DPFormatUareU2.2.0\DPFormatU.are.U2.0\UareUWindowsMSSQLCSharp\obj\x86\Debug\UareUWindowsMSSQLCSharp.Identify.resources
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC\obj\x86\Debug\UareUWindowsMSSQLCSharp.exe
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC\obj\x86\Debug\UareUWindowsMSSQLCSharp.pdb
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\UareUWindowsMSSQLCSharp.exe
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\UareUWindowsMSSQLCSharp.pdb
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\UareUWindowsMSSQLCSharp.Enroll.resources
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\UareUWindowsMSSQLCSharp.Form_Main.resources
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\UareUWindowsMSSQLCSharp.Properties.Resources.resources
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\obj\x86\Debug\UareUWindowsMSSQLCSharp.Verify.resources
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\bin\Debug\UareUWindowsMSSQLCSharp.exe
+C:\Project\UareUSamples\UareU_MSSql_CSharp_ASYNC_loadFmdand verify\bin\Debug\UareUWindowsMSSQLCSharp.pdb
